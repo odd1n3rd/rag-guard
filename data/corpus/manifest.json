@@ -1,0 +1,164 @@
+{
+  "documents": [
+    {
+      "path": "llm/LLM01_PromptInjection.md",
+      "title": "LLM01:2025 Prompt Injection",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM01_PromptInjection.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "0b6c84e994ed7e2813ae4d758259adcd6344c20f48b14a65fb1c59e61871a1b9"
+    },
+    {
+      "path": "llm/LLM02_SensitiveInformationDisclosure.md",
+      "title": "LLM02:2025 Sensitive Information Disclosure",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM02_SensitiveInformationDisclosure.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "bdfa1bcba7575ff7c1804c141cc7944c580cff5cae2e8d9a1bff2b39c40a60f6"
+    },
+    {
+      "path": "llm/LLM03_SupplyChain.md",
+      "title": "LLM03:2025 Supply Chain",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM03_SupplyChain.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "c6290f02114ad9bbf8bd9651840c91fcb06cfaa6be1b5dfc3b14b9e13e76e697"
+    },
+    {
+      "path": "llm/LLM04_DataModelPoisoning.md",
+      "title": "LLM04:2025 Data and Model Poisoning",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM04_DataModelPoisoning.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "3ac96988fe816e866172d4d09d7c6ec34c46e983a5d06e8813979788551c502e"
+    },
+    {
+      "path": "llm/LLM05_ImproperOutputHandling.md",
+      "title": "LLM05:2025 Improper Output Handling",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM05_ImproperOutputHandling.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "fd0c4c63ede6584813884baaa571b3e22ea4111a7612e0507505ea7b43b2c519"
+    },
+    {
+      "path": "llm/LLM06_ExcessiveAgency.md",
+      "title": "LLM06:2025 Excessive Agency",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM06_ExcessiveAgency.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "e96b52b5f47b4d3443f0226498f6764d8701be9ed9984625bf63b6c43b7b96a5"
+    },
+    {
+      "path": "llm/LLM07_SystemPromptLeakage.md",
+      "title": "LLM07:2025 System Prompt Leakage",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM07_SystemPromptLeakage.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "ea4005836b04fa40b3bb552a789a7afe35a155375f819a5796d9cce8b78ceeb7"
+    },
+    {
+      "path": "llm/LLM08_VectorAndEmbeddingWeaknesses.md",
+      "title": "LLM08:2025 Vector and Embedding Weaknesses",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM08_VectorAndEmbeddingWeaknesses.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "be1bf57ee64f56e731e6ec2ca37c8cd21978da1f22378992712bf9e9f847e016"
+    },
+    {
+      "path": "llm/LLM09_Misinformation.md",
+      "title": "LLM09:2025 Misinformation",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM09_Misinformation.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "546fdec266aa18ed9d269af4a059ebf32408b9500a98f1cc1b072b2805339a87"
+    },
+    {
+      "path": "llm/LLM10_UnboundedConsumption.md",
+      "title": "LLM10:2025 Unbounded Consumption",
+      "source_url": "https://raw.githubusercontent.com/OWASP/www-project-top-10-for-large-language-model-applications/main/2_0_vulns/LLM10_UnboundedConsumption.md",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "без изменений (только обрезаны пробелы по краям)",
+      "sha256": "25f5e3b9c5308c57294c7a1dbea0167065845b32487a811eb87012422a103361"
+    },
+    {
+      "path": "agentic/ASI01_AgentGoalHijack.md",
+      "title": "ASI01:2026 Agent Goal Hijack",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 10-12), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "43d80aafb9121705cc03a8a2e1301457c41ac1b2abb7866ebcf1a44722573946"
+    },
+    {
+      "path": "agentic/ASI02_ToolMisuseAndExploitation.md",
+      "title": "ASI02:2026 Tool Misuse and Exploitation",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 13-15), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "b71e82d78f9a987330cb07fa193fc79d3b713c9cdf49a9a4e7d56268c2c7e242"
+    },
+    {
+      "path": "agentic/ASI03_IdentityAndPrivilegeAbuse.md",
+      "title": "ASI03:2026 Identity and Privilege Abuse",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 16-18), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "746542877310316fd61d666f59d5c7c5f51015a7b0cfa84e16084c8d757d71d6"
+    },
+    {
+      "path": "agentic/ASI04_AgenticSupplyChainVulnerabilities.md",
+      "title": "ASI04:2026 Agentic Supply Chain Vulnerabilities",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 19-21), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "92c45217ccdffd5f38963f215b757c86d569e316dddd31addc3796741576ea46"
+    },
+    {
+      "path": "agentic/ASI05_UnexpectedCodeExecutionRce.md",
+      "title": "ASI05:2026 Unexpected Code Execution (RCE)",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 22-24), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "240ade5095900edb34b0767f6c941bc89eadf005319bd0e34cf3086b63c4a618"
+    },
+    {
+      "path": "agentic/ASI06_MemoryContextPoisoning.md",
+      "title": "ASI06:2026 Memory & Context Poisoning",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 25-27), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "4e1cdbaa5422c71cf8df23c416b1441c14c510ff0fd289d2255fb7f4411562d9"
+    },
+    {
+      "path": "agentic/ASI07_InsecureInterAgentCommunication.md",
+      "title": "ASI07:2026 Insecure Inter-Agent Communication",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 28-30), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "4eca7fea92e1ea182b15e8460b2ea627f966ecdcd6ac6235c4b73132ef5ec530"
+    },
+    {
+      "path": "agentic/ASI08_CascadingFailures.md",
+      "title": "ASI08:2026 Cascading Failures",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 31-33), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "781dc250f3ceb5fd9bd489f57d796b47fe51fb4936bcb7c588534ca7bd5bf0cd"
+    },
+    {
+      "path": "agentic/ASI09_HumanAgentTrustExploitation.md",
+      "title": "ASI09:2026 Human-Agent Trust Exploitation",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 34-36), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "679d339238137710cb6738fb2f52da50b0f81194520a69198ca5d482dc43bb92"
+    },
+    {
+      "path": "agentic/ASI10_RogueAgents.md",
+      "title": "ASI10:2026 Rogue Agents",
+      "source_url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+      "license": "CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)",
+      "changes": "текст извлечён из PDF (стр. 37-39), удалены колонтитулы, строки склеены в абзацы, добавлены markdown-заголовки",
+      "sha256": "2b6283184260456130884a332aefe095640c2f8f32d636c23155b4513242fc16"
+    }
+  ]
+}

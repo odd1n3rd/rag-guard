@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Векторный индекс (строится локально из data/corpus)
+.chroma/
+
+# Отчёты прогона
+reports/*.json
+reports/*.md
+
+# Посторонние файлы, занесённые копированием из временной папки сессии
+# (резюме / research — относятся к другой работе, не к rag-guard)
+/karta-podrabotok.html
+/rezume-hh-ai-security.md
+/research_notes/
+/reports/
